@@ -166,9 +166,14 @@ body {
     display: inline;
     margin: 0 15px;
 }
+.boat-item img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
 img{
-    height: 20px;
-    width:20px;
+    height: 80px;
+    width:80px;
 }
 .footer-nav a {
     color: white;
