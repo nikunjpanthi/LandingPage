@@ -170,7 +170,10 @@ body {
     display: inline;
     margin: 0 15px;
 }
-
+img{
+    height: 20px;
+    width:20px;
+}
 .footer-nav a {
     color: white;
     text-decoration: none;
