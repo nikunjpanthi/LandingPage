@@ -166,14 +166,10 @@ body {
     display: inline;
     margin: 0 15px;
 }
-.boat-item img {
-    width: 80px;
-    height: 80px;
-    margin-bottom: 10px;
-}
+
 img{
-    height: 80px;
-    width:80px;
+    height: 100%;
+    width:100%;
 }
 .footer-nav a {
     color: white;
